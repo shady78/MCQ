@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "a4da",
+      "username": "shady",
+      "email": "shady@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ce06",
+      "username": "shady",
+      "email": "shady@gmail.comy",
+      "password": "123"
+    }
+  ],
+  "doctor": [],
+  "login": []
+}
